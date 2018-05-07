@@ -1,0 +1,34 @@
+body {
+    margin: 40px;
+    
+  }
+
+  h1{
+    font-family: 'Caveat', cursive;
+  }
+
+ 
+   .button.add {
+    border-radius: 4px;
+    background-color: #4ECDC4;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    margin: 50px;
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  .button.view {
+    border-radius: 4px;
+    background-color: #F27935;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    margin: 50px;
+    font-family: 'Raleway', sans-serif;
+  }
+  

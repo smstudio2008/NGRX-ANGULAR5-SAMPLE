@@ -1,0 +1,3 @@
+<div   *ngIf="newSample" class="wrapper">
+  <div *ngFor="let data of newSample | async" class="box">{{ data.timeStamp }}</div>
+</div>
